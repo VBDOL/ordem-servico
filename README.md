@@ -1,6 +1,6 @@
 # Sistema de Gestão de Ordem de Serviço
 
-![Diagrama de Entidade-Relacionamento](diagram.png)
+![Diagrama de Entidade-Relacionamento](diagram1os.png)
 
 ## Contexto do Projeto
 Este projeto consiste em criar um esquema conceitual para a gestão de ordens de serviço, incluindo o cadastro de clientes, a criação de pedidos, a análise de pedidos e a execução de ordens de serviço.
